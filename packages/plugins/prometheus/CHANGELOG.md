@@ -1,5 +1,16 @@
 # @graphql-yoga/plugin-prometheus
 
+## 2.0.6
+
+### Patch Changes
+
+- [#2985](https://github.com/dotansimha/graphql-yoga/pull/2985)
+  [`75ee8523`](https://github.com/dotansimha/graphql-yoga/commit/75ee8523b5507ab44947abfd6e8fe612baee1ada)
+  Thanks [@ardatan](https://github.com/ardatan)! - dependencies updates:
+  - Updated dependency
+    [`@envelop/prometheus@8.0.1` ↗︎](https://www.npmjs.com/package/@envelop/prometheus/v/8.0.1)
+    (from `8.0.0`, in `dependencies`)
+
 ## 2.0.5
 
 ### Patch Changes
